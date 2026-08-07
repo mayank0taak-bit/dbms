@@ -1,7 +1,7 @@
 # Experiment 4: SQL JOIN Operations
 
-**Name:** RAJSI RAWAT
-**UID:** 24BET10074
+**Name:** MAYANK KUMAR
+**UID:** 24BET10086
 
 ## Aim
 
